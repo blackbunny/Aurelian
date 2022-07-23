@@ -1,0 +1,16 @@
+{
+    "name": "blackbunny/aurelian",
+    "description": "simple image generator for composing",
+    "type": "library",
+    "require": {
+        "doctrine/collections": "2.0.x-dev"
+    },
+    "license": "proprietary",
+    "authors": [
+        {
+            "name": "Murat Sevkat Kucukosman",
+            "email": "muratkucukosman@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
